@@ -27,13 +27,16 @@
 
   <br>
   </div>
-<div>
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=asdfls)](https://solved.ac/asdfls) 
-<br> -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=asdfls)](https://solved.ac/asdfls)
+
+  <br>
+  <hr>
+<div align=center>
+
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=asdfls)](https://solved.ac/asdfls)
 <br>
-<!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
 </div>
 
+<!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
 
 
